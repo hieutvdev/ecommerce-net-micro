@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  inventory.api:
+    build:
+      context: "D:\\workspace\\BE\\microservices\\ecommerce\\src\\Services\\Inventory"
+      dockerfile: "Inventory.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Inventory.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "inventory.api:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\trinh\\.nuget\\packages:/home/app/.nuget/packages"
+    - "D:\\workspace\\BE\\microservices\\ecommerce\\src\\Services\\Inventory\\Inventory.API:/app:rw"
+    - "D:\\workspace\\BE\\microservices\\ecommerce\\src\\Services\\Inventory:/src:rw"
+    working_dir: "/app"

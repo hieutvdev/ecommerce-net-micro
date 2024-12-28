@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Data\" />
+      <Folder Include="DependencyInjection\Extensions\" />
+      <Folder Include="DependencyInjection\Options\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="Extensions\" />
+      <Folder Include="Mappers\" />
+      <Folder Include="Services\" />
+      <Folder Include="Usecase\V1\Commands\" />
+      <Folder Include="Usecase\V1\Queries\" />
+      <Folder Include="Usecase\V1\Validations\" />
+      <Folder Include="Usecase\V2\Commands\" />
+      <Folder Include="Usecase\V2\Queries\" />
+      <Folder Include="Usecase\V2\Validations\" />
+    </ItemGroup>
+
+</Project>

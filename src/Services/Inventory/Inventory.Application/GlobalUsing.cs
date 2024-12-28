@@ -1,0 +1,10 @@
+﻿global using Inventory.Domain.Models;
+global using BuildingBlocks.Behaviors;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
+global using BuildingBlocks.CQRS;
+global using BuildingBlocks.Pagination;
+global using Inventory.Application.Dtos.Warehouses;
+global using Inventory.Application.Extensions;
+global using Inventory.Domain.Repositories;

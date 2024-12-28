@@ -1,0 +1,17 @@
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.deps.json
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.csproj.AssemblyReference.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfoInputs.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfo.cs
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\refint\Inventory.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\BuildingBlocks.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\BuildingBlocks.Messaging.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\BuildingBlocks.Messaging.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\bin\Debug\net8.0\BuildingBlocks.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Inventory\Inventory.Domain\obj\Debug\net8.0\Inventor.69E31387.Up2Date

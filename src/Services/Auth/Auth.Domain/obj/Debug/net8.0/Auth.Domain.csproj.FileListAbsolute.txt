@@ -1,0 +1,17 @@
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\Auth.Domain.deps.json
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\Auth.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\Auth.Domain.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\BuildingBlocks.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\BuildingBlocks.Messaging.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\BuildingBlocks.Messaging.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\bin\Debug\net8.0\BuildingBlocks.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.csproj.AssemblyReference.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.AssemblyInfoInputs.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.AssemblyInfo.cs
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Dom.44AFD750.Up2Date
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\refint\Auth.Domain.dll
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\Auth.Domain.pdb
+D:\workspace\BE\microservices\ecommerce\src\Services\Auth\Auth.Domain\obj\Debug\net8.0\ref\Auth.Domain.dll

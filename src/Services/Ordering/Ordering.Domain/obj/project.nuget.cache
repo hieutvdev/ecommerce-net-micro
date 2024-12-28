@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHwUTjODwkelIRevQKKj5l29/mnj/PrBAMeQ/V/1RdmNGBv2QwqR894T+rxrNF5xukTCD7hkh7pI82nS7Vv+1g==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\BE\\microservices\\ecommerce\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trinh\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
